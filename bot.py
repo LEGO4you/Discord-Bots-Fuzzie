@@ -17,4 +17,4 @@ async def ip(ctx):
 async def ping(ctx):
     await ctx.channel.send(f"Returned in {round(client.latency * 1000)} ms")
 
-client.run("OTAxODY2MDcyODI5OTg0NzY4.YXWGOw.sJOXAyGHtboKvwUoPcQtiP76vc4")
+client.run("")
